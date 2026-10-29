@@ -1,0 +1,21 @@
+filename,condition,lighting,angle,background,note
+easy_01.jpg,단순 배경 + 정면,균일,0,단순,
+easy_02.jpg,단순 배경 + 정면,균일,0,단순,
+easy_03.jpg,단순 배경 + 정면,균일,0,단순,
+easy_04.jpg,단순 배경 + 정면,균일,0,단순,
+easy_05.jpg,단순 배경 + 정면,균일,0,단순,
+hard_shadow_01.jpg,그림자 있음,측면광,0,단순,그림자 강함
+hard_shadow_02.jpg,그림자 있음,측면광,10,단순,
+hard_shadow_03.jpg,그림자 있음,역광,0,단순,
+hard_shadow_04.jpg,그림자 있음,측면광,0,복잡,
+hard_shadow_05.jpg,그림자 있음,측면광,0,단순,
+hard_tilt_01.jpg,45도 이상 기울어짐,균일,50,단순,
+hard_tilt_02.jpg,45도 이상 기울어짐,균일,55,단순,
+hard_tilt_03.jpg,45도 이상 기울어짐,균일,60,복잡,
+hard_tilt_04.jpg,45도 이상 기울어짐,측면광,50,단순,
+hard_tilt_05.jpg,45도 이상 기울어짐,균일,45,단순,
+hard_complex_01.jpg,복잡한 배경,균일,0,복잡,패턴 배경
+hard_complex_02.jpg,복잡한 배경,균일,15,복잡,
+hard_complex_03.jpg,복잡한 배경,측면광,0,복잡,
+hard_complex_04.jpg,복잡한 배경,균일,0,복잡,부분 가림
+hard_complex_05.jpg,복잡한 배경,균일,20,복잡,

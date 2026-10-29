@@ -1,0 +1,16 @@
+# 출력물
+output/
+report/warped/
+report/figures/
+report/evaluation_results.csv
+report/evaluation_summary.md
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 본인 촬영 원본은 저작권/용량 상황에 맞게 관리 (필요 시 주석 해제)
+# images/*.jpg
+# images/*.png
